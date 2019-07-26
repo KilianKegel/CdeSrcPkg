@@ -4,6 +4,10 @@ and it's associated hashes are published here.
 
 # Revision history
 
+### 20190726/b81394c620206ebbc300216652cd43d7f4ac94e3
+* improve COM usage for debug traces
+* add gEfiCallerBaseName
+
 ### 20190706/0ea26421a591adcb4443e46913da2f429d7f312f
 * add PEI support
 
