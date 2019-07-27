@@ -4,7 +4,7 @@ and it's associated hashes are published here.
 
 # Revision history
 
-### 20190726/b81394c620206ebbc300216652cd43d7f4ac94e3
+###	20190726/b81394c620206ebbc300216652cd43d7f4ac94e3
 * improve COM usage for debug traces
 * add gEfiCallerBaseName
 
