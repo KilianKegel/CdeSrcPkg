@@ -4,6 +4,9 @@ and it's associated hashes are published here.
 
 # Revision history
 
+### 20190811/3adeb812a0fafb63f61bc4b3a41fc52bb1b70938
+* unification of CDEMOFINE for all platforms, use gEfiCallerBaseName on all platforms for module name
+
 ###	20190726/b81394c620206ebbc300216652cd43d7f4ac94e3
 * improve COM usage for debug traces
 * add gEfiCallerBaseName
